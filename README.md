@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Shuraih's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shairy111&show_icons=true&theme=radical)
+<!-- ![Shuraih's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shairy111&show_icons=true&theme=radical)
 
 <!--
 **Shairy111/Shairy111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
